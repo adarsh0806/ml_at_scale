@@ -1,0 +1,1 @@
+Working with an HDFS instance with and without using Snakebite.
