@@ -1,0 +1,1 @@
+This project creates a network intrusion detection system that can identify which network flow is malicious and which is not using the KDD99 dataset. Model is developed using a single cluster on Spark.
