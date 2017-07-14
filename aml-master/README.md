@@ -1,4 +1,4 @@
-# Effective Amazon Machine Learning
+# Scaling Machine Learning
 
 
 
