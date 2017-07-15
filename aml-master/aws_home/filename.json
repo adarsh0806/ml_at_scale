@@ -1,0 +1,11 @@
+{
+    "MLModelId": "", 
+    "MLModelName": "", 
+    "MLModelType": "BINARY", 
+    "Parameters": {
+        "KeyName": ""
+    }, 
+    "TrainingDataSourceId": "", 
+    "Recipe": "", 
+    "RecipeUri": ""
+}
